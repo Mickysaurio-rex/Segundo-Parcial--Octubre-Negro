@@ -7,6 +7,10 @@ _Octubre negro, nuestro juego recrea una mecanica de juegos top down, donde la p
 
 * Godot engine v3.5
 
+## Ejecutable 📦
+
+_Contamos con un ejecutable el cual debe ser descomprimido , para ser ejecutado directamente_
+
 ## Autores ✒️
 
   * **Miguel Molina** - *56197* - [Mickysaurio-rex](https://github.com/Mickysaurio-rex)
